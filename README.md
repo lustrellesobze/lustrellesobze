@@ -204,6 +204,6 @@ API Development        ███████████████░░░░
 
 **Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour collaborer ! 🚀**
 
-💖 **Codé avec passion** par [Angela Ngassam](https://github.com/lustrellesobze)
+💖 **Codé avec passion** par [Lustrelle SOBZE](https://github.com/lustrellesobze)
 
 </div>
